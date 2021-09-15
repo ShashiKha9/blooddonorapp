@@ -31,7 +31,7 @@ body:  Container(
         SizedBox(height: 54.h,),
 
 
-        Image(image: AssetImage("lib/assets/blood.jpg"),height: 315.h,),
+        Image(image: AssetImage("lib/assets/blood.webp"),height: 315.h,),
         SizedBox(height: 71.h,),
         Padding(padding: EdgeInsets.symmetric(horizontal: 91.w)),
 
